@@ -14,3 +14,8 @@ Language: es
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1.9000
+Imports: 
+    usethis,
+    whisker
+URL: https://github.com/jdtrat/automatr
+BugReports: https://github.com/jdtrat/automatr/issues
