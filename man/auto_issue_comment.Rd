@@ -16,3 +16,9 @@ auto_issue_comment(issue_number, remindee, action)
 \description{
 Create a Github Action that Comments a Reminder on an Issue
 }
+\examples{
+
+\dontrun{
+auto_issue_comment(issue_number = 1, remindee = "you", action = "keep making great #rstats packages!")
+}
+}

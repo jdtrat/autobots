@@ -6,6 +6,12 @@
 #' @param action What the person needs to be reminded about
 #'
 #' @export
+#'
+#' @examples
+#'
+#' \dontrun{
+#' auto_issue_comment(issue_number = 1, remindee = "you", action = "keep making great #rstats packages!")
+#' }
 
 auto_issue_comment <- function(issue_number, remindee, action) {
 
