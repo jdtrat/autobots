@@ -19,7 +19,7 @@ auto_issue_comment <- function(issue_number, remindee, action) {
                remindee = remindee,
                action = action)
 
-  template <- readLines(system.file("template_comment_reminder.yml", package = "automatr"))
+  template <- readLines(system.file("template_comment_reminder.yml", package = "autobots"))
 
   tmp <- tempdir()
 

@@ -1,5 +1,5 @@
-Package: automatr
-Title: An R Package to help automate tasks wih Github Actions
+Package: autobots
+Title: Automate Tasks wih Github Actions
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Jonathan",
@@ -17,5 +17,5 @@ RoxygenNote: 7.1.1.9000
 Imports: 
     usethis,
     whisker
-URL: https://github.com/jdtrat/automatr
-BugReports: https://github.com/jdtrat/automatr/issues
+URL: https://github.com/jdtrat/autobots
+BugReports: https://github.com/jdtrat/autobots/issues
